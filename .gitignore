@@ -1,0 +1,4 @@
+*.local
+Debug*/
+Release*/
+__history/
