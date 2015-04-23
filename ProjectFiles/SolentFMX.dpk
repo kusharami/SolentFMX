@@ -28,7 +28,8 @@ package SolentFMX;
 {$IMPLICITBUILD ON}
 
 requires
-  rtl;
+  rtl,
+  fmx;
 
 contains
   Solent.BitmapSpeedButton in '..\SourceFiles\Solent.BitmapSpeedButton.pas';
