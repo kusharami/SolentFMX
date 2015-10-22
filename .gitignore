@@ -3,3 +3,5 @@ Debug*/
 Release*/
 __history/
 *.identcache
+ProjectFiles/*.res
+ProjectFiles/AndroidManifest.template.xml
