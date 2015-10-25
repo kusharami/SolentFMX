@@ -5,3 +5,4 @@ __history/
 *.identcache
 ProjectFiles/*.res
 ProjectFiles/AndroidManifest.template.xml
+*.stat
